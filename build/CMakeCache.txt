@@ -320,6 +320,9 @@ MEMORYCHECK_COMMAND:FILEPATH=MEMORYCHECK_COMMAND-NOTFOUND
 //File that contains suppressions for the memory checker
 MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 
+//Path to a library.
+OpenGL_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libOpenGL.so
+
 //Path to a program.
 P4COMMAND:FILEPATH=P4COMMAND-NOTFOUND
 
@@ -340,6 +343,18 @@ SLURM_SRUN_COMMAND:FILEPATH=SLURM_SRUN_COMMAND-NOTFOUND
 
 //Path to a program.
 SVNCOMMAND:FILEPATH=/usr/bin/svn
+
+//Path to a library.
+UDev_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libudev.so
+
+//Path to a library.
+X11_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libX11.so
+
+//Path to a library.
+Xcursor_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libXcursor.so
+
+//Path to a library.
+Xrandr_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libXrandr.so
 
 
 ########################
@@ -547,6 +562,8 @@ MAKECOMMAND-ADVANCED:INTERNAL=1
 MEMORYCHECK_COMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: MEMORYCHECK_SUPPRESSIONS_FILE
 MEMORYCHECK_SUPPRESSIONS_FILE-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: OpenGL_LIB
+OpenGL_LIB-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: P4COMMAND
 P4COMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SITE
@@ -557,4 +574,12 @@ SLURM_SBATCH_COMMAND-ADVANCED:INTERNAL=1
 SLURM_SRUN_COMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: SVNCOMMAND
 SVNCOMMAND-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: UDev_LIB
+UDev_LIB-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: X11_LIB
+X11_LIB-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Xcursor_LIB
+Xcursor_LIB-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: Xrandr_LIB
+Xrandr_LIB-ADVANCED:INTERNAL=1
 
