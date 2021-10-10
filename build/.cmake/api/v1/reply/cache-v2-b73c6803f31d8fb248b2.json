@@ -1562,6 +1562,22 @@
 			"value" : "1500"
 		},
 		{
+			"name" : "FreeType_LIB",
+			"properties" : 
+			[
+				{
+					"name" : "ADVANCED",
+					"value" : "1"
+				},
+				{
+					"name" : "HELPSTRING",
+					"value" : "Path to a library."
+				}
+			],
+			"type" : "FILEPATH",
+			"value" : "/usr/lib/x86_64-linux-gnu/libfreetype.so"
+		},
+		{
 			"name" : "GITCOMMAND",
 			"properties" : 
 			[
@@ -1691,7 +1707,7 @@
 				}
 			],
 			"type" : "PATH",
-			"value" : "/usr/lib/x86_64-linux-gnu/cmake/SFML"
+			"value" : "/usr/local/lib/cmake/SFML"
 		},
 		{
 			"name" : "SFML_DOC_DIR",

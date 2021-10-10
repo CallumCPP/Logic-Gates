@@ -1,7 +1,7 @@
 #ifndef UTIL_WINDOWS_PLATFORM_HPP
 #define UTIL_WINDOWS_PLATFORM_HPP
 
-#include "Platform/IPlatform.hpp"
+#include "../IPlatform.hpp"
 
 // TODO: WM_DISPLAYCHANGE event handling (multi-monitor support)
 

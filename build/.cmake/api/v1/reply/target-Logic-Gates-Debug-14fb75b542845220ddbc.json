@@ -27,23 +27,17 @@
 			{
 				"command" : 0,
 				"file" : 0,
-				"line" : 9,
+				"line" : 16,
 				"parent" : 0
 			},
 			{
 				"command" : 1,
 				"file" : 0,
-				"line" : 10,
+				"line" : 17,
 				"parent" : 0
 			},
 			{
 				"command" : 2,
-				"file" : 0,
-				"line" : 12,
-				"parent" : 0
-			},
-			{
-				"command" : 3,
 				"file" : 0,
 				"line" : 19,
 				"parent" : 0
@@ -51,7 +45,13 @@
 			{
 				"command" : 3,
 				"file" : 0,
-				"line" : 20,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 3,
+				"file" : 0,
+				"line" : 27,
 				"parent" : 0
 			}
 		]
@@ -63,6 +63,13 @@
 			[
 				{
 					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"backtrace" : 2,
+					"define" : "SFML_STATIC"
 				}
 			],
 			"language" : "CXX",
@@ -106,15 +113,35 @@
 			},
 			{
 				"backtrace" : 2,
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1",
+				"fragment" : "/usr/local/lib/libsfml-graphics-s.a",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1",
+				"fragment" : "/usr/local/lib/libsfml-window-s.a",
 				"role" : "libraries"
 			},
 			{
-				"fragment" : "/usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1",
+				"fragment" : "/usr/local/lib/libsfml-system-s.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lrt",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lOpenGL32",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lfreetype",
 				"role" : "libraries"
 			}
 		],

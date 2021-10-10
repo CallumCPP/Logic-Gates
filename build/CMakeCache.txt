@@ -296,6 +296,9 @@ CVS_UPDATE_OPTIONS:STRING=-d -A -P
 //Maximum time allowed before CTest will kill the test.
 DART_TESTING_TIMEOUT:STRING=1500
 
+//Path to a library.
+FreeType_LIB:FILEPATH=/usr/lib/x86_64-linux-gnu/libfreetype.so
+
 //Path to a program.
 GITCOMMAND:FILEPATH=/usr/bin/git
 
@@ -321,7 +324,7 @@ MEMORYCHECK_SUPPRESSIONS_FILE:FILEPATH=
 P4COMMAND:FILEPATH=P4COMMAND-NOTFOUND
 
 //The directory containing a CMake configuration file for SFML.
-SFML_DIR:PATH=/usr/lib/x86_64-linux-gnu/cmake/SFML
+SFML_DIR:PATH=/usr/local/lib/cmake/SFML
 
 //Path to a file.
 SFML_DOC_DIR:PATH=SFML_DOC_DIR-NOTFOUND
@@ -532,6 +535,8 @@ CVSCOMMAND-ADVANCED:INTERNAL=1
 CVS_UPDATE_OPTIONS-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: DART_TESTING_TIMEOUT
 DART_TESTING_TIMEOUT-ADVANCED:INTERNAL=1
+//ADVANCED property for variable: FreeType_LIB
+FreeType_LIB-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: GITCOMMAND
 GITCOMMAND-ADVANCED:INTERNAL=1
 //ADVANCED property for variable: HGCOMMAND
