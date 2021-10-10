@@ -1,0 +1,77 @@
+[
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/main.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/main.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/main.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Object.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Object.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Object.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Button.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Button.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Button.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Finish.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Finish.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Finish.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gate.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gate.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/And.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/And.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Nand.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Nand.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Nor.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Nor.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Not.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Not.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Or.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Or.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Xnor.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Xnor.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Xor.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Gate/Gates/Xor.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Level.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Level.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl1.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl1.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl2.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl2.cpp"
+}
+]
