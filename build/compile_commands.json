@@ -98,5 +98,15 @@
   "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
   "command": "/bin/x86_64-linux-gnu-g++-10 -DSFML_STATIC -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl7.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl7.cpp\"",
   "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl7.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -DSFML_STATIC -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl8.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl8.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl8.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -DSFML_STATIC -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl9.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl9.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl9.cpp"
 }
 ]

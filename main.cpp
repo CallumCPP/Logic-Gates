@@ -12,7 +12,7 @@ int currLevel = 0;
 
 int main(int, char**) {
     sf::RenderWindow w;
-    w.create(sf::VideoMode(800.f, 800.f), "Logic Gates");
+    w.create(sf::VideoMode(800.f, 800.f), "Logic Gates", sf::Style::Titlebar | sf::Style::Close);
     sf::Event event;
 
     levels.push_back(Lvl1());
@@ -22,6 +22,8 @@ int main(int, char**) {
     levels.push_back(Lvl5());
     levels.push_back(Lvl6());
     levels.push_back(Lvl7());
+    levels.push_back(Lvl8());
+    levels.push_back(Lvl9());
 
     levels[currLevel].display(&w);
     w.display();
@@ -35,6 +37,7 @@ int main(int, char**) {
         }
         
         w.clear();
+        if (w.getSize() != levels[currLevel].winSize) w.create(sf::VideoMode(levels[currLevel].winSize.x, levels[currLevel].winSize.y), "Logic Gates", sf::Style::Titlebar | sf::Style::Close);
         if (levels[currLevel].display(&w)){
             std::this_thread::sleep_for(std::chrono::seconds(1));
             for (int i = 0; i < levels[currLevel].objects.size(); i++){
