@@ -1,9 +1,17 @@
 # ninja log v5
+905	1530	1633880550215840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl3.cpp.o	17f8c97a4fa26053
+2	1061	1633880549743840954	CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o	f49ced9d04ecf5f0
+3	1150	1633880549831840953	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o	14aa2c29360c8599
+963	1576	1633880550259840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl7.cpp.o	e65460ee0fb582c1
+2	921	1633880549603840957	CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o	7329a012b3dfdb98
+3	980	1633880549663840956	CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o	4afdeae256257132
+1	1023	1633880549707840955	CMakeFiles/Logic-Gates.dir/Finish.cpp.o	61e600995fb28390
+950	1534	1633880550219840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o	6cff7a5f84812839
+0	64	1633893634535946123	build.ninja	f068ba7fa922f067
+922	1537	1633880550219840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl4.cpp.o	f8f5639680112a98
 2	1074	1633880549759840954	CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o	3b30f2226f3c6da7
 2	963	1633880549631840956	CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o	4997f255aa0426f9
 1	817	1633880549499840959	CMakeFiles/Logic-Gates.dir/Button.cpp.o	f42bc6024a133c83
-922	1537	1633880550219840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl4.cpp.o	f8f5639680112a98
-0	64	1633880974447832931	build.ninja	f068ba7fa922f067
 1	944	1633880549627840956	CMakeFiles/Logic-Gates.dir/Object.cpp.o	787a284915c1ef88
 1	1175	1633880549859840952	CMakeFiles/Logic-Gates.dir/main.cpp.o	8c4ae3461f7f29ee
 3	905	1633880549587840957	CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o	b69dc336e470bdd3
@@ -11,13 +19,5 @@
 944	1577	1633880550259840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl5.cpp.o	ecec8a88cbd08cd4
 2	949	1633880549631840956	CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o	e344ef080d3e8076
 817	1515	1633880550199840946	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o	de04961db6af2538
-2	1097	1633880549779840954	CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o	ccf6964cd91d16cd
 2	988	1633880549671840956	CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o	a84912784a50f6a
-950	1534	1633880550219840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o	6cff7a5f84812839
-1	1023	1633880549707840955	CMakeFiles/Logic-Gates.dir/Finish.cpp.o	61e600995fb28390
-3	980	1633880549663840956	CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o	4afdeae256257132
-2	921	1633880549603840957	CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o	7329a012b3dfdb98
-963	1576	1633880550259840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl7.cpp.o	e65460ee0fb582c1
-3	1150	1633880549831840953	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o	14aa2c29360c8599
-2	1061	1633880549743840954	CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o	f49ced9d04ecf5f0
-905	1530	1633880550215840945	CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl3.cpp.o	17f8c97a4fa26053
+2	1097	1633880549779840954	CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o	ccf6964cd91d16cd
