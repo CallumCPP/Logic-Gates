@@ -17,6 +17,11 @@ int main(int, char**) {
 
     levels.push_back(Lvl1());
     levels.push_back(Lvl2());
+    levels.push_back(Lvl3());
+    levels.push_back(Lvl4());
+    levels.push_back(Lvl5());
+    levels.push_back(Lvl6());
+
     levels[currLevel].display(&w);
     w.display();
 
@@ -38,5 +43,6 @@ int main(int, char**) {
             currLevel++;
         }
         w.display();
+        std::this_thread::sleep_for(std::chrono::milliseconds(2));
     }
 }

@@ -275,120 +275,114 @@ build CMakeFiles/Logic-Gates.dir/main.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Object.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Object.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Object.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Button.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Button.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Button.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Finish.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Finish.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Finish.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gate.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/And.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Nand.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Nor.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Not.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Or.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Xnor.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Gate/Gates/Xor.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Gate/Gates
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Level.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl1.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
 
 build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl2.cpp || cmake_object_order_depends_target_Logic-Gates
   DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o.d
   FLAGS = -g
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
-  TARGET_PDB = Logic-Gates.pdb
+
+build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl3.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl3.cpp || cmake_object_order_depends_target_Logic-Gates
+  DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl3.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Logic-Gates.dir
+  OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
+
+build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl4.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl4.cpp || cmake_object_order_depends_target_Logic-Gates
+  DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl4.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Logic-Gates.dir
+  OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
+
+build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl5.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl5.cpp || cmake_object_order_depends_target_Logic-Gates
+  DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl5.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Logic-Gates.dir
+  OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
+
+build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o: CXX_COMPILER__Logic-Gates_Debug ../Level/Levels/Lvl6.cpp || cmake_object_order_depends_target_Logic-Gates
+  DEP_FILE = CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o.d
+  FLAGS = -g
+  OBJECT_DIR = CMakeFiles/Logic-Gates.dir
+  OBJECT_FILE_DIR = CMakeFiles/Logic-Gates.dir/Level/Levels
 
 
 # =============================================================================
@@ -398,16 +392,15 @@ build CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o: CXX_COMPILER__Logic-Ga
 #############################################
 # Link the executable Logic-Gates
 
-build Logic-Gates: CXX_EXECUTABLE_LINKER__Logic-Gates_Debug CMakeFiles/Logic-Gates.dir/main.cpp.o CMakeFiles/Logic-Gates.dir/Object.cpp.o CMakeFiles/Logic-Gates.dir/Button.cpp.o CMakeFiles/Logic-Gates.dir/Finish.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o | /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
+build Logic-Gates: CXX_EXECUTABLE_LINKER__Logic-Gates_Debug CMakeFiles/Logic-Gates.dir/main.cpp.o CMakeFiles/Logic-Gates.dir/Object.cpp.o CMakeFiles/Logic-Gates.dir/Button.cpp.o CMakeFiles/Logic-Gates.dir/Finish.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gate.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/And.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nand.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Nor.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Not.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Or.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xnor.cpp.o CMakeFiles/Logic-Gates.dir/Gate/Gates/Xor.cpp.o CMakeFiles/Logic-Gates.dir/Level/Level.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl1.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl2.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl3.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl4.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl5.cpp.o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o | /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1 /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
   FLAGS = -g
   LINK_FLAGS = -rdynamic
   LINK_LIBRARIES = /usr/lib/x86_64-linux-gnu/libsfml-graphics.so.2.5.1  /usr/lib/x86_64-linux-gnu/libsfml-window.so.2.5.1  /usr/lib/x86_64-linux-gnu/libsfml-system.so.2.5.1
   OBJECT_DIR = CMakeFiles/Logic-Gates.dir
   POST_BUILD = :
   PRE_LINK = :
-  TARGET_COMPILE_PDB = CMakeFiles/Logic-Gates.dir/
   TARGET_FILE = Logic-Gates
-  TARGET_PDB = Logic-Gates.pdb
+  TARGET_PDB = Logic-Gates.dbg
 
 
 #############################################
@@ -942,14 +935,14 @@ build Level/Levels/all: phony
 #############################################
 # Re-run CMake if any of its inputs changed.
 
-build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Gate/CMakeLists.txt ../Gate/Gates/CMakeLists.txt ../Level/CMakeLists.txt ../Level/Levels/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake /usr/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.18/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.18/Modules/CMakeCInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.18/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.18/Modules/CMakeNinjaFindMake.cmake /usr/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.18/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.18/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.18/Modules/CPack.cmake /usr/share/cmake-3.18/Modules/CPackComponent.cmake /usr/share/cmake-3.18/Modules/CTest.cmake /usr/share/cmake-3.18/Modules/CTestTargets.cmake /usr/share/cmake-3.18/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.18/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU.cmake /usr/share/cmake-3.18/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake /usr/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.18/Modules/Platform/Linux.cmake /usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.18/Templates/CPackConfig.cmake.in CMakeCache.txt CMakeFiles/3.18.4/CMakeCCompiler.cmake CMakeFiles/3.18.4/CMakeCXXCompiler.cmake CMakeFiles/3.18.4/CMakeSystem.cmake
+build build.ninja: RERUN_CMAKE | ../CMakeLists.txt ../Gate/CMakeLists.txt ../Gate/Gates/CMakeLists.txt ../Level/CMakeLists.txt ../Level/Levels/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake /usr/share/cmake-3.18/Modules/CMakeCInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.18/Modules/CPack.cmake /usr/share/cmake-3.18/Modules/CPackComponent.cmake /usr/share/cmake-3.18/Modules/CTest.cmake /usr/share/cmake-3.18/Modules/CTestTargets.cmake /usr/share/cmake-3.18/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU.cmake /usr/share/cmake-3.18/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.18/Modules/Platform/Linux.cmake /usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.18/Templates/CPackConfig.cmake.in CMakeCache.txt CMakeFiles/3.18.4/CMakeCCompiler.cmake CMakeFiles/3.18.4/CMakeCXXCompiler.cmake CMakeFiles/3.18.4/CMakeSystem.cmake
   pool = console
 
 
 #############################################
 # A missing CMake input file is not an error.
 
-build ../CMakeLists.txt ../Gate/CMakeLists.txt ../Gate/Gates/CMakeLists.txt ../Level/CMakeLists.txt ../Level/Levels/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake /usr/share/cmake-3.18/Modules/CMakeCCompiler.cmake.in /usr/share/cmake-3.18/Modules/CMakeCCompilerABI.c /usr/share/cmake-3.18/Modules/CMakeCInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCXXCompiler.cmake.in /usr/share/cmake-3.18/Modules/CMakeCXXCompilerABI.cpp /usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.18/Modules/CMakeCompilerIdDetection.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCXXCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompileFeatures.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompilerABI.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineCompilerId.cmake /usr/share/cmake-3.18/Modules/CMakeDetermineSystem.cmake /usr/share/cmake-3.18/Modules/CMakeFindBinUtils.cmake /usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.18/Modules/CMakeNinjaFindMake.cmake /usr/share/cmake-3.18/Modules/CMakeParseImplicitIncludeInfo.cmake /usr/share/cmake-3.18/Modules/CMakeParseImplicitLinkInfo.cmake /usr/share/cmake-3.18/Modules/CMakeSystem.cmake.in /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.18/Modules/CMakeTestCCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeTestCXXCompiler.cmake /usr/share/cmake-3.18/Modules/CMakeTestCompilerCommon.cmake /usr/share/cmake-3.18/Modules/CPack.cmake /usr/share/cmake-3.18/Modules/CPackComponent.cmake /usr/share/cmake-3.18/Modules/CTest.cmake /usr/share/cmake-3.18/Modules/CTestTargets.cmake /usr/share/cmake-3.18/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.18/Modules/Compiler/ADSP-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/ARMCC-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/ARMClang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/AppleClang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Borland-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Bruce-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Clang-DetermineCompilerInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/Comeau-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Compaq-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Compaq-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Cray-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Embarcadero-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Fujitsu-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GHS-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-FindBinUtils.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU.cmake /usr/share/cmake-3.18/Modules/Compiler/HP-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/HP-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/IAR-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/IBMCPP-C-DetermineVersionInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/IBMCPP-CXX-DetermineVersionInternal.cmake /usr/share/cmake-3.18/Modules/Compiler/Intel-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/MSVC-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/NVIDIA-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/OpenWatcom-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/PGI-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/PathScale-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SCO-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SDCC-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SunPro-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/SunPro-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/TI-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/TinyCC-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/VisualAge-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/VisualAge-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/Watcom-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XL-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XL-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XLClang-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/XLClang-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/zOS-C-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/Compiler/zOS-CXX-DetermineCompiler.cmake /usr/share/cmake-3.18/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake /usr/share/cmake-3.18/Modules/Internal/FeatureTesting.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-Determine-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.18/Modules/Platform/Linux.cmake /usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.18/Templates/CPackConfig.cmake.in CMakeCache.txt CMakeFiles/3.18.4/CMakeCCompiler.cmake CMakeFiles/3.18.4/CMakeCXXCompiler.cmake CMakeFiles/3.18.4/CMakeSystem.cmake: phony
+build ../CMakeLists.txt ../Gate/CMakeLists.txt ../Gate/Gates/CMakeLists.txt ../Level/CMakeLists.txt ../Level/Levels/CMakeLists.txt /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfig.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigDependencies.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLConfigVersion.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets-none.cmake /usr/lib/x86_64-linux-gnu/cmake/SFML/SFMLSharedTargets.cmake /usr/share/cmake-3.18/Modules/CMakeCInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCXXInformation.cmake /usr/share/cmake-3.18/Modules/CMakeCheckCompilerFlagCommonPatterns.cmake /usr/share/cmake-3.18/Modules/CMakeCommonLanguageInclude.cmake /usr/share/cmake-3.18/Modules/CMakeGenericSystem.cmake /usr/share/cmake-3.18/Modules/CMakeInitializeConfigs.cmake /usr/share/cmake-3.18/Modules/CMakeLanguageInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInformation.cmake /usr/share/cmake-3.18/Modules/CMakeSystemSpecificInitialize.cmake /usr/share/cmake-3.18/Modules/CPack.cmake /usr/share/cmake-3.18/Modules/CPackComponent.cmake /usr/share/cmake-3.18/Modules/CTest.cmake /usr/share/cmake-3.18/Modules/CTestTargets.cmake /usr/share/cmake-3.18/Modules/CTestUseLaunchers.cmake /usr/share/cmake-3.18/Modules/Compiler/CMakeCommonCompilerMacros.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-C.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Compiler/GNU.cmake /usr/share/cmake-3.18/Modules/DartConfiguration.tcl.in /usr/share/cmake-3.18/Modules/Internal/CMakeCheckCompilerFlag.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-C.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU-CXX.cmake /usr/share/cmake-3.18/Modules/Platform/Linux-GNU.cmake /usr/share/cmake-3.18/Modules/Platform/Linux.cmake /usr/share/cmake-3.18/Modules/Platform/UnixPaths.cmake /usr/share/cmake-3.18/Templates/CPackConfig.cmake.in CMakeCache.txt CMakeFiles/3.18.4/CMakeCCompiler.cmake CMakeFiles/3.18.4/CMakeCXXCompiler.cmake CMakeFiles/3.18.4/CMakeSystem.cmake: phony
 
 
 #############################################
