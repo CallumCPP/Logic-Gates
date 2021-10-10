@@ -6,5 +6,6 @@
 #include "Levels/Lvl4.h"
 #include "Levels/Lvl5.h"
 #include "Levels/Lvl6.h"
+#include "Levels/Lvl7.h"
 
 #endif /* LEVEL_LEVELS */

@@ -86,7 +86,8 @@
 				17,
 				18,
 				19,
-				20
+				20,
+				21
 			]
 		}
 	],
@@ -150,7 +151,8 @@
 				17,
 				18,
 				19,
-				20
+				20,
+				21
 			]
 		},
 		{
@@ -286,6 +288,12 @@
 			"backtrace" : 5,
 			"compileGroupIndex" : 0,
 			"path" : "Level/Levels/Lvl6.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 5,
+			"compileGroupIndex" : 0,
+			"path" : "Level/Levels/Lvl7.cpp",
 			"sourceGroupIndex" : 0
 		}
 	],

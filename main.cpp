@@ -21,6 +21,7 @@ int main(int, char**) {
     levels.push_back(Lvl4());
     levels.push_back(Lvl5());
     levels.push_back(Lvl6());
+    levels.push_back(Lvl7());
 
     levels[currLevel].display(&w);
     w.display();

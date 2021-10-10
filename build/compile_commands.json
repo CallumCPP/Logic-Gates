@@ -93,5 +93,10 @@
   "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
   "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl6.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl6.cpp\"",
   "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl6.cpp"
+},
+{
+  "directory": "/home/callum/Documents/Programming/C++/Logic Gates/build",
+  "command": "/bin/x86_64-linux-gnu-g++-10 -g -o CMakeFiles/Logic-Gates.dir/Level/Levels/Lvl7.cpp.o -c \"/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl7.cpp\"",
+  "file": "/home/callum/Documents/Programming/C++/Logic Gates/Level/Levels/Lvl7.cpp"
 }
 ]
