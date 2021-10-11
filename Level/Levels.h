@@ -9,5 +9,6 @@
 #include "Levels/Lvl7.h"
 #include "Levels/Lvl8.h"
 #include "Levels/Lvl9.h"
+#include "Levels/Lvl10.h"
 
 #endif /* LEVEL_LEVELS */

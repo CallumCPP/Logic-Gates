@@ -8,4 +8,5 @@ target_sources(Logic-Gates PRIVATE
     "Lvl7.cpp"
     "Lvl8.cpp"
     "Lvl9.cpp"
+    "Lvl10.cpp"
 )
